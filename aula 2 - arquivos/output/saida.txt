@@ -1,0 +1,2 @@
+Numero: 125
+,Palavra: esta palavra que sera gravada no arquivo!
